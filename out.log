@@ -1,0 +1,8 @@
+Starting
+/home/ross/Desktop/python_code/Street_View_Background/pic1.jpg
+http://maps.googleapis.com/maps/api/geocode/json?latlng=31.216401,-91.339588&sensor=false&language=zh-CN
+https://maps.googleapis.com/maps/api/streetview?size=640x640&fov=60&heading=0&location=31.221010900,-91.348594500&key=AIzaSyAZmBxtk886_pPO44tWt0UW9LNoYtlrnVE
+
+
+
+https://maps.googleapis.com/maps/api/streetview?size=640x640&fov=60&heading=40&location=31.221010900,-91.348594500&key=AIzaSyAZmBxtk886_pPO44tWt0UW9LNoYtlrnVE
